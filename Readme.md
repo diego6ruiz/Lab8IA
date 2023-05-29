@@ -1,4 +1,4 @@
-# Lab7IA
+# Lab8IA
 
 **Cuál implementación fue mejor?** <br>
 *Modelo sin librerias:* <br>
